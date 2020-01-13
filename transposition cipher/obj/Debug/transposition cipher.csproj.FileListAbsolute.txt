@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\transposition cipher\transposition cipher\bin\Debug\transposition cipher.exe.config
+C:\Users\HP\source\repos\transposition cipher\transposition cipher\bin\Debug\transposition cipher.exe
+C:\Users\HP\source\repos\transposition cipher\transposition cipher\bin\Debug\transposition cipher.pdb
+C:\Users\HP\source\repos\transposition cipher\transposition cipher\obj\Debug\transposition cipher.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\transposition cipher\transposition cipher\obj\Debug\transposition_cipher.Properties.Resources.resources
+C:\Users\HP\source\repos\transposition cipher\transposition cipher\obj\Debug\transposition cipher.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\transposition cipher\transposition cipher\obj\Debug\transposition cipher.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\transposition cipher\transposition cipher\obj\Debug\transposition cipher.exe
+C:\Users\HP\source\repos\transposition cipher\transposition cipher\obj\Debug\transposition cipher.pdb
+C:\Users\HP\source\repos\transposition cipher\transposition cipher\obj\Debug\transposition_cipher.Main.resources
+C:\Users\HP\source\repos\transposition cipher\transposition cipher\obj\Debug\transposition_cipher.About.resources
+C:\Users\HP\source\repos\transposition cipher\transposition cipher\obj\Debug\transposition_cipher.Help.resources
+C:\Users\HP\source\repos\transposition cipher\transposition cipher\obj\Debug\transposition_cipher.Decryption.resources
